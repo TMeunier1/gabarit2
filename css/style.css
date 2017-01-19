@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+header {
+    background-color: #222222;
+}
+nav {
+    color: #9d9d99;
+    height: 2.2em;
+    padding-top: 0.7em;
+}
+ul {
+    margin: 0 12em;
+}
+#ligrd {
+    font-size: 1.2em;
+}
+li {
+    display: inline-block;
+    font-size: 0.8em;
+    margin-right: 1em;
+}
+main {
+
+}
+section {
+
+}
+h1 {
+    display: inline-block;
+}
+h2 {
+    display: inline-block;
+}
+h3 {
+    display: inline-block;
+}
+article {
+
+}
+img {
+    float: left;
+}
+p {
+    display: inline-block;
+    width: 45%;
+}
+button {
+
+}
