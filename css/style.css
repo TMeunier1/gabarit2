@@ -54,7 +54,7 @@ h3 {
     font-weight: lighter;
 }
 article {
-    border-top: 1px solid;
+    border-top: 1px solid #eeeeee;
     padding-bottom: 6em;
     padding-top: 1em;
 }
@@ -69,4 +69,35 @@ p {
 }
 button {
     margin-left: 1em;
+}
+a {
+    border: 1px solid #dddddd;
+    margin-right: -0.46em;
+    padding: 1em;
+    text-decoration: none;
+    color: #597abb;
+}
+a:visited {
+    border-color: #dddddd;
+}
+main ul {
+    border-bottom: 1px solid #eeeeee;
+    border-top: 1px solid #eeeeee;
+    padding-bottom: 3em;
+    padding-top: 3em;
+    text-align: center;
+}
+main li {
+    margin: 0;
+}
+.selected {
+    color: white;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+footer {
+    margin-top: 10em;
+}
+footer p {
+    margin-left: 5em;
 }
